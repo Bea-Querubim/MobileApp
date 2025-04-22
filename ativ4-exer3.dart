@@ -1,5 +1,5 @@
 /*Exercicio 3  - ativ4
-Aluna Beatriz Queruvim Batista BP-3016374
+Aluna Beatriz Querubim Batista BP-3016374
 
 3. Crie a tela da imagem utilizando como raiz da árvore de widgets um MaterialApp e Scaffold.
 Para criar a lista de tarefas você deve utilizar também o ListView com o método builder para criar Cards para
